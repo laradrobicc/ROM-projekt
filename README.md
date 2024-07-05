@@ -20,4 +20,4 @@ Ta repozitorij vsebuje projekt, v katerem analiziram Prepovedane droge v Sloveni
 ### Povezavan do videoposnetka 
 [Video](https://youtu.be/hNGgH8sq5Fs)
 
-**Pripravila**: _Lara Drobič_
+_**Pripravila**: Lara Drobič_
