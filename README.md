@@ -8,7 +8,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram Prepovedane droge v Sloveni
     * vsi podatki so dobljeni z NIJZ
 2. Analiza porabljenega denarja (povezanega z drogami) v Sloveniji 2014 - 2022
 3. Število obravnavanih bolnikov zaradi zastrupitve 2010 - 2022
-    * Vsi obravnavani,
+    * vsi obravnavani,
     * obravnavani zaradi kokaina in heroina
 3. Lokacije centrov za preprečevanje in zdravljenje odvnisnosti po Sloveniji
 4. Število umrlih ljudi po starostnih skupinah od leta 2014 do 2022
