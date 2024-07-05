@@ -1,6 +1,6 @@
 # Prepovedane droge v Sloveniji
 
-Ta repozitorij vsebuje projekt, v katerem analiziram Prepovedane droge v Sloveniji. Ta projekt je pripravljen pri predmetu **Računalniska orodja v matematiki 2023/24** mojega studija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
+Ta repozitorij vsebuje projekt, v katerem analiziram Prepovedane droge v Sloveniji. Ta projekt je pripravljen pri predmetu **Računalniska orodja v matematiki 2023/24** mojega študija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
 
 
 ## Načrt projekta
@@ -16,6 +16,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram Prepovedane droge v Sloveni
     * njena minimalna, maksimalna ter povprečna cena
 6. Čistot in kakovst drog
 7. Število zasegov
+   
 ### Povezavan do videoposnetka 
 [Video](https://youtu.be/hNGgH8sq5Fs)
 
